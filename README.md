@@ -16,4 +16,4 @@ from langchain_core.prompts import ChatPromptTemplate
 
 ### Using the Bot
 
-After starting Ollama, use 'ollama run llama3' to interact with the bot.
+After starting Ollama, use `llama run llama3` to interact with the bot.
